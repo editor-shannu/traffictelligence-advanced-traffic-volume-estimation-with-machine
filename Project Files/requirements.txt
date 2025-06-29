@@ -1,9 +1,0 @@
-Flask  
-pandas
-numpy
-scikit-learn
-xgboost
-seaborn  
-
-requests
-python-dotenv
