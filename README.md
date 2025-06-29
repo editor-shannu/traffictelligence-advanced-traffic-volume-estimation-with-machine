@@ -1,6 +1,7 @@
 # traffictelligence-advanced-traffic-volume-estimation-with-machine
- INTRODUCTION 
-Project Overview: TrafficTelligence is an advanced system that uses machine learning algorithms to 
+INTRODUCTION: 
+Project Overview: 
+TrafficTelligence is an advanced system that uses machine learning algorithms to 
 estimate and predict traffic volume with precision. By analyzing historical traffic data, weather patterns, 
 events, and other relevant factors, TrafficTelligence provides accurate forecasts and insights to enhance 
 traffic management, urban planning, and commuter experiences. 
@@ -21,10 +22,10 @@ on future traffic predictions.
 3. Commuter Guidance and Navigation: Offers commuters optimal route recommendations and 
 real-time traffic updates. 
 Deliverables 
-1. Comprehensive Project Report: 
+Comprehensive Project Report: 
 ● Detailed documentation of the project's objectives, methodology, and results. 
 ● Analysis of historical traffic data, weather patterns, and event impacts. 
 ● Insights into machine learning models used for traffic prediction. 
-2. Traffic Prediction Models: 
+Traffic Prediction Models: 
 ● Trained machine learning models capable of predicting traffic volumes. 
 ● Documentation of model selection, training process, and evaluation metrics.
