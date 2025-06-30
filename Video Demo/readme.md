@@ -1,2 +1,2 @@
 Video demonstration of project
-DEMO LINK : https://drive.google.com/file/d/1tE2VH_HZ_eVBrexeWTf_4UTlgWNqtFgQ/view?usp=sharing
+DEMO LINK : https://youtu.be/Tzukg-mIFD8?si=_gniTFfmlIj-7M4M
